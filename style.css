@@ -1,0 +1,25 @@
+.main_container {
+    position: relative;
+    width: 50%;
+    height: 50%;
+}
+
+.image_contailer {
+    /* width: 100%;
+
+    object-fit: cover; */
+
+
+}
+
+#image_source_id {
+    width: 100%;
+}
+
+.controller_button {
+    position: absolute;
+    top: 41%;
+    display: flex;
+    justify-content: space-between;
+
+}
